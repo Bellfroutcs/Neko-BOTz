@@ -59,8 +59,8 @@ global.limitawal = {
 }
 //=================================================//
 //Terserah Kalau Paham 
-global.thumb = fs.readFileSync("./baseikal/image/Neko.jpeg")
-global.log0 = fs.readFileSync("./baseikal/image/Neko.jpeg")
+global.thumb = fs.readFileSync("./baseikal/image/Neko.jpg")
+global.log0 = fs.readFileSync("./baseikal/image/Neko.jpg")
 //=================================================//
 let file = require.resolve(__filename)
 fs.watchFile(file, () => {
