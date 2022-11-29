@@ -18,22 +18,22 @@ global.flasmurf = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutp
 //=================================================//
 //—————「 Set Kebutuhan Button & Kontak 」—————//
 //ubah aja kalau ada yang gapunya gsh di hps anggap aja credits :), note tanda ' gausah di hapus!
-global.youtube = 'https://youtube.com/c/@DaniMaker' // ubah aia
-global.ig = '' // ubah aja
-global.email = 'xddani715@gmail.com'
+global.youtube = 'https://youtube.com/@belfroutcsch9579' // ubah aia
+global.ig = 'https://instagram.com/ananda.alif.rizky' // ubah aja
+global.email = 'alifsantuy.1357@gmail.com'
 global.region = 'indonesia'
 //—————「 Set Nama Own & Bot 」—————//
-global.ownername = 'Dani Maker' //ubah jadi nama mu, note tanda ' gausah di hapus!
-global.botname = 'Bot War' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
-global.footer = 'Dani Maker' //ubah jadi nama mu, note tanda ' gausah di hapus!
+global.ownername = 'Ananda DEV' //ubah jadi nama mu, note tanda ' gausah di hapus!
+global.botname = 'Neko BOTz' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
+global.footer = 'Neko BOTZ By NdaDev' //ubah jadi nama mu, note tanda ' gausah di hapus!
 //=================================================//
 // Other
-global.owner = ['6281348106274','6281251549899','6281348106274','6281251549899'] // ubah aja pake nomor lu
-global.premium = ['6281348106274','62812515498899'] // ubah aja pake nomor lu
-global.packname = 'Dani Maker' // ubah aja
-global.ownerr = ['Dani Maker'] // ubaha aja
-global.author = 'Dani Maker' //ubah aja
-global.sessionName = './sessionye/haikal' //Gausaj Di Ubah
+global.owner = ['6283816797646'] // ubah aja pake nomor lu
+global.premium = ['6283816797646','62812515498899'] // ubah aja pake nomor lu
+global.packname = 'Ananda DEV' // ubah aja
+global.ownerr = ['AnandanDEV'] // ubaha aja
+global.author = 'NdaDev' //ubah aja
+global.sessionName = './sessionye/session' //Gausaj Di Ubah
 global.prefa = ['','!','.',',','🐤','🗿'] // Gausah Mendingan 
 global.sp = '⭔' // Gausah Juga
 
@@ -55,7 +55,7 @@ global.f6 = 'application/vnd.android.package-archive'
 //=================================================//
 global.limitawal = {
     premium: "Infinity",
-    free: 100
+    free: 5
 }
 //=================================================//
 //Terserah Kalau Paham 
